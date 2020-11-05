@@ -7,7 +7,8 @@ git push origin <rama> = subir cambios a la rama
 
 git log = historial de cambios hechos
 git log --oneline = para ver todos los cambios en una sola linea
-git log --graph = historial de cambios mas graficos 
+git log --graph = historial de cambios
 git commit --amend -m "Cambio" = para cambiar comentario por otro 
 
 git diff
+git difftool <has1><has2>
