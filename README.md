@@ -5,3 +5,4 @@ git commit -m "" = agregar descripcion del cambio
 git push origin <rama> = subir cambios a la rama 
 git log = historial de cambios hechos
 git log --oneline = para ver todos los cambios en una sola linea
+git log --graph = historial de cambios mas graficos 
